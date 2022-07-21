@@ -6,17 +6,17 @@ Here's a repo to coordinate the final project of our Data Analytics and Visualiz
 
 ## Hopeful Team
 
-Sanil Veeravu
-Marsha Curtis
-Conor Hanson
-Oliver Dykstra
+- Sanil Veeravu
+- Marsha Curtis
+- Conor Hanson
+- Oliver Dykstra
 
 ## Project Ideas
 
 A few ideas that have been mentioned. Add more!
 - News cloud - a news exploration dashboard
-- Crime and heat mapping
-- Car performance analizer module
+- Crime and heat mapping (Could wrap more angles into this)
+- Car performance analyzer module - a plug in for your car to collect and analyze performance metrics.
 
 
 ## News Cloud Feasability
