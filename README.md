@@ -19,9 +19,9 @@ A few ideas that have been mentioned. Add more!
 - Car performance analyzer module - a plug in for your car to collect and analyze performance metrics.
 
 
-## News Cloud Feasability
+## News Cloud Feasibility
 
-In order to explore the feasability of this project I looked first for examples of word clouds being applied to the news, then I searched for api's and other methods to access news headlines and articles more easily, then I attempted to find ideas on how machine learning could be applied to the news (which itself was a challenge since Google just wanted to news about Machine Learning) 
+In order to explore the feasibility of this project I looked first for examples of word clouds being applied to the news, then I searched for api's and other methods to access news headlines and articles more easily, then I attempted to find ideas on how machine learning could be applied to the news (which itself was a challenge since Google just wanted to news about Machine Learning) 
 
 Things I did not look at here, but should be considered as well, data storage, time to go live, and site design.
 
@@ -62,7 +62,7 @@ In my vision we would be including a lot of "alternative" news sources, especial
 
 ### Applying Machine Learning
 
-There's quite a few interesting possibilities for appliying machine learning. All are heavily reliant on NLP of course. The examples I've been able to find fall into a few categories: sentiment analysis, topic segmentation(what's it about?), quality assessment(fake news!), difference in coverage (advanced sentiment analysis), and of course, recommendation.
+There's quite a few interesting possibilities for appliying machine learning. All are heavily reliant on NLP of course. The examples I've been able to find fall into a few categories: sentiment analysis, topic classification, quality assessment(fake news!), difference in coverage (advanced sentiment analysis), and of course, recommendation.
 
 There's also some significant open source resources for NLP in general, and also as applies to the news.
 

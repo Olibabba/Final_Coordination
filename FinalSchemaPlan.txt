@@ -1,0 +1,93 @@
+Emp personal Info
+EmployeeID
+Age
+Education
+EducationField
+Gender
+MaritalStatus
+NumCompaniesWorked
+Over18
+TotalWorkingYears
+
+Emp work info
+EmployeeID
+Attrition
+BusinessTravel
+Department
+job level
+Job role
+MonthlyIncome 
+PercentSalaryHike
+StandardHours
+StockOptionLevel
+TrainingTimesLastYear
+YearsAtCompany
+YearsSinceLastPromotion
+YearsWithCurrManager
+
+Emp Survey
+EmployeeID
+EnvironmentSatisfaction
+JobSatisfaction
+WorkLifeBalance
+
+Manager Survey
+EmployeeID
+JobInvolvement
+PerformanceRating
+
+Education key
+- Education
+key
+
+Education field key
+education field
+Key
+
+Department key
+Department
+Key
+
+Job Role Key
+job role
+Key
+
+————————————————————————————————————————
+
+General
+    Age                      4410 non-null   int64  
+    Attrition                4410 non-null   object 
+    BusinessTravel           4410 non-null   object 
+    Department               4410 non-null   object 
+    DistanceFromHome         4410 non-null   int64  
+    Education                4410 non-null   int64  
+    EducationField           4410 non-null   object 
+ 7   EmployeeCount            4410 non-null   int64  
+ 8   EmployeeID               4410 non-null   int64  
+    Gender                   4410 non-null   object 
+    JobLevel                 4410 non-null   int64  
+    JobRole                  4410 non-null   object 
+    MaritalStatus            4410 non-null   object 
+   MonthlyIncome            4410 non-null   int64  
+   NumCompaniesWorked       4391 non-null   float64
+   Over18                   4410 non-null   object 
+   PercentSalaryHike        4410 non-null   int64  
+   StandardHours            4410 non-null   int64  
+   StockOptionLevel         4410 non-null   int64  
+   TotalWorkingYears        4401 non-null   float64
+   TrainingTimesLastYear    4410 non-null   int64  
+   YearsAtCompany           4410 non-null   int64  
+   YearsSinceLastPromotion  4410 non-null   int64  
+   YearsWithCurrManager     4410 non-null   int64 
+
+Emp survey
+ 0   EmployeeID               4410 non-null   int64  
+ 1   EnvironmentSatisfaction  4385 non-null   float64
+ 2   JobSatisfaction          4390 non-null   float64
+ 3   WorkLifeBalance          4372 non-null   float64
+
+
+Manager Survey
+ 0   EmployeeID         4410 non-null   int64
+ 1   JobInvolvement     4410 non-null   int64
+ 2   PerformanceRating  4410 non-null   int64
